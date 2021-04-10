@@ -1,0 +1,12 @@
+{
+  "name": "Janna",
+  "displayName": "Janna",
+  "expo": {
+    "name": "Janna",
+    "slug": "Janna",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
